@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build\tarefaFevereiro.uf2'
+elf = 'build\tarefaFevereiro.elf'
